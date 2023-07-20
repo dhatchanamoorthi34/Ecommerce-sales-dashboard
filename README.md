@@ -22,32 +22,7 @@ Dataset Description
 
 We will be using E-Commerce Dashboard.xlsx Dataset attached.
 
-* E-Commerce Dashboard which covers Orders data for various Product Category;
-Within this file you will find the following fields:
 
-Field 	                                          Description
-
-Order ID	                                    Unique Order ID of a product
-Order Date	                                  Order Placement Date
-Ship Date	                                    Shipment Date of the placed order
-Aging	                                        Used to Create Histogram Bin
-Ship                                          Mode	Shipment mode of placed order
-Product Category	                            Product Category
-Product	                                      Name of the Product
-Sales	                                        Sales Amount
-Quantity	                                    The amount or number of a material
-Discount	                                    A deduction from the usual cost of something
-Profit	                                      Obtain a financial advantage or benefit
-Shipping Cost	                                The amount required to ship the placed order
-Order Priority	                              Precedence of placed order
-Customer Id	                                  Unique Customer ID
-Customer Name	                                Name of the Customer 
-Segment	Product                               Segment(i.e.Home Office/Corporate/Consumer etc.)
-City	                                        Unique City Name
-State	                                        Unique State Name
-Country	                                      Unique Country Name
-Region	                                      Especially the part of a country
-Months	                                      The month of placing the order
 
 Analysis Tasks
 
