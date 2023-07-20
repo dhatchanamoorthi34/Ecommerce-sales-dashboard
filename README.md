@@ -22,6 +22,9 @@ Dataset Description
 
 We will be using E-Commerce Dashboard.xlsx Dataset attached.
 
+* E-Commerce Dashboard which covers Orders data for various Product Category;
+Within this file you will find the following fields:
+
 ![Screenshot (9)](https://github.com/dhatchanamoorthi143/Ecommerce-sales-dashboard/assets/138371302/2ab029d0-819d-476c-925a-faf687ff9689)
 
 
