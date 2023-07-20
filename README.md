@@ -22,6 +22,7 @@ Dataset Description
 
 We will be using E-Commerce Dashboard.xlsx Dataset attached.
 
+![Screenshot (9)](https://github.com/dhatchanamoorthi143/Ecommerce-sales-dashboard/assets/138371302/2ab029d0-819d-476c-925a-faf687ff9689)
 
 
 Analysis Tasks
